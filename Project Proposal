@@ -1,0 +1,22 @@
+#Project Title
+Delays
+
+#Team Members
+-Thomas Brennan
+-Chi Tran
+-Mamta Mandan
+-Erik Jakubowski
+
+#Project Description/Outline
+As a worldly traveler from the Twin Cities, when should I travel and with who. 
+
+#Research Questions to Answer
+Which is the most reliable airline?(into and out of Minneapolis?)
+Which times are best to travel?
+Which weather cause the most delay?(weather api?)
+
+#Datasets Used
+https://www.kaggle.com/usdot/flight-delays#flights.csv
+
+#Rough Breakdown of Tasks
+https://trello.com/b/fo8zRwTA/delorean
